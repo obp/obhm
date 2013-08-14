@@ -14,7 +14,7 @@ from setuptools import setup
 
 setup(
     name='obhm',
-    version='0.0.0',
+    version='0.0.1',
     author='Adam DePrince',
     author_email='adeprince@nypublicradio.org',
     description='One Banana Host Monitoring for people with other things to think about',
